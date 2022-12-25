@@ -1,4 +1,4 @@
-# Tensorflow Emotions Detection
+# Tensorflow Emotions Detection 🎭
 
 Using Python and Tensorflow to train a model for detecting facial emotions
 
